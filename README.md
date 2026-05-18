@@ -109,3 +109,5 @@ Inteligência artificial foi usada para:
 3. Como administrador,
    quero acessar a API com autenticação segura,
    para proteger a plataforma de acessos não autorizados.
+
+Revisão final acadêmica.
